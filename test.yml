@@ -10,4 +10,4 @@
     - name: start web server
       service:
         name: httpd
-        state: started
+        state: started updated
